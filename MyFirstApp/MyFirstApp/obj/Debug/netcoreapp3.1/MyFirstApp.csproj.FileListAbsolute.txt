@@ -1,0 +1,15 @@
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.exe
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.deps.json
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.json
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.runtimeconfig.dev.json
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csprojAssemblyReference.cache
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.Form1.resources
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.GenerateResource.cache
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfoInputs.cache
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.AssemblyInfo.cs
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.csproj.CoreCompileInputs.cache
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.dll
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.pdb
+D:\GIT\Repositories\my-git-repos\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp3.1\MyFirstApp.genruntimeconfig.cache

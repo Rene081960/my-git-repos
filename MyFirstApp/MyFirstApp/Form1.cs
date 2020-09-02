@@ -17,5 +17,9 @@ namespace MyFirstApp
             InitializeComponent();
         }
 
+        private void BtnStart_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hello World");
+        }
     }
 }
